@@ -1,4 +1,5 @@
 [workspace]
 members = [
     "prices",
+    "uniswap-v2-bindings"
 ]
